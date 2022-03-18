@@ -1,0 +1,16 @@
+ form{
+     padding: 1rem;
+     border: blue 1px solid;
+     width: 40vw;
+ }
+ 
+ form div{
+    margin-bottom: 20px;
+ }
+
+ #result{
+     width: 50%;
+    border: 1px blue solid;
+ }
+
+ 
